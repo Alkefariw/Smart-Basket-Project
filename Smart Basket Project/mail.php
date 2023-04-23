@@ -31,7 +31,7 @@ class mymailer
 	private $to_name = 'Mullen Library';
 	private $to_email = 'Enter The Email That You Want To Send Here';   
 
-	private $message_subject = "Mullen Library";
+	private $message_subject = "CUA Basket 1";
 ////////////////////////////////////////////////////////////////////////////////
 	public $mail = null;
 
