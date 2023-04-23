@@ -1,5 +1,5 @@
 # Smart-Basket-Project
-This repo for my Senior Design Course [ENGR 441]
+This repo for my Senior Design Course [ENGR 441] Spring 2023
 
 
 1) First download the file and extract it
