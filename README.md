@@ -10,6 +10,7 @@ Example: localhost/[name of the file]/
 Use these links to see how to create an app password for your email 
 
 I) https://www.gmass.co/blog/gmail-smtp/
+
 II) https://evermap.com/Tutorial_ADM_UsingAppPasswordsGmail.asp
 
 
