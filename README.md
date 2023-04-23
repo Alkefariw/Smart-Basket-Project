@@ -4,6 +4,7 @@ This repo for my Senior Design Course [ENGR 441]
 
 1) First download the file and extract it
 2) download any server and run the file on that server
+
 Example: localhost/[name of the file]/
 
 3) go to the Mail.php file and add your email and the app password
