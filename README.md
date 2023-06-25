@@ -7,7 +7,7 @@ This repo for my Senior Design Course [ENGR 441] Spring 2023
 
 **Example:** localhost/[name of the file]/
 
-3) go to the Mail.php file and add your email and the app password
+3) go to the Mail.php file and add your email and the app password.
 Use these links to see how to create an app password for your email 
 
 I) https://www.gmass.co/blog/gmail-smtp/
