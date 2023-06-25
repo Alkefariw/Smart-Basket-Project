@@ -51,7 +51,7 @@ class mymailer
 		//Create a new PHPMailer instance
 		$mail = $this->mail;
 
-		//Remove this block. It is unsecure to some extent. It was added because of encryption problem at my local host
+		
 		$mail->SMTPOptions = array(
 			'ssl' => array(
 				'verify_peer' => false,
